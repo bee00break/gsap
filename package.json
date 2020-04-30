@@ -43,7 +43,7 @@
     "imagemin-jpegtran": "^5.0.2",
     "imagemin-optipng": "^5.2.1",
     "imagemin-pngquant": "^5.1.0",
-    "jquery": "^1.11.3",
+    "jquery": "^3.5.0",
     "pump": "^3.0.0",
     "vinyl-source-stream": "^2.0.0"
   },
